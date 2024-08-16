@@ -34,8 +34,9 @@
 
 body {
   background-color: var(--body-bg-color);
-  font-family: var(--body-font);
+  font-family: "Vazirmatn";
   color: var(--body-color);
+  direction:rtl;
 }
 
 html {
