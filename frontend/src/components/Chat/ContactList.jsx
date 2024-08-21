@@ -4,7 +4,6 @@ import { fetchFriendsListAsync } from "../../slices/chatSlice";
 import { ChatContext } from "../../context/chatContext";
 import Contact from "./Contact";
 import { Input } from "../Inputs/Input";
-import Button from "../Button/Button";
 const ContactList = () => {
   const {
     currentColor,
